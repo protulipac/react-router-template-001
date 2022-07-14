@@ -1,26 +1,11 @@
 import React from 'react';
-import { Routes, Route, Outlet } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Navigation from "./navigation/navigation.component";
 import Nestead from "./components/nestead/nestead.component";
+import HomePage from "./pages/home/home.page"; //import of default exports
+import { AboutPage } from "./pages/about/about.page"; //import of nondefault exports
+
 //import './App.css';
-
-export const HomePage = () => {
-  return (
-    <div>
-      <h2>HomePage</h2>
-      <Outlet />
-    </div>
-  )
-}
-
-export const AboutPage = () => {
-  return (
-    <div>
-      <h2>AboutPage</h2>
-      <Outlet />
-    </div>
-  )
-}
 
 class App extends React.Component {
   constructor() {
