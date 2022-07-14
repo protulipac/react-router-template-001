@@ -4,6 +4,7 @@ import Navigation from "./navigation/navigation.component";
 import Nestead from "./components/nestead/nestead.component";
 import HomePage from "./pages/home/home.page"; //import of default exports
 import { AboutPage } from "./pages/about/about.page"; //import of nondefault exports
+import ContentPage from "./pages/content/content.page"; 
 
 //import './App.css';
 
@@ -35,6 +36,7 @@ class App extends React.Component {
               <Route path='nestead' element={<Nestead />} />
               {/* /about/nestead */}
             </Route>
+            <Route path='content' element={<ContentPage />} />
           </Route>
         </Routes>
       </div>
