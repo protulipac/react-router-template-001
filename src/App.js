@@ -1,6 +1,7 @@
 import React from 'react';
 import { Routes, Route, Outlet } from 'react-router-dom';
 import Navigation from "./navigation/navigation.component";
+import Nestead from "./components/nestead/nestead.component";
 //import './App.css';
 
 export const HomePage = () => {
@@ -17,14 +18,6 @@ export const AboutPage = () => {
     <div>
       <h2>AboutPage</h2>
       <Outlet />
-    </div>
-  )
-}
-
-const Nestead = () => {
-  return (
-    <div>
-      <h3>Nestead</h3>
     </div>
   )
 }
