@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="26mm"
+   viewBox="0 0 30 26"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient904">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop900" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop902" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient904"
+       id="linearGradient906"
+       x1="57.107624"
+       y1="-0.90289974"
+       x2="57.559067"
+       y2="113.0866"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-299.47738,-378.31059)">
+    <path
+       style="fill:url(#linearGradient906);fill-opacity:1"
+       id="path644"
+       d="M 85.322833,105.18635 29.412571,104.9654 1.648794,56.435214 29.795278,8.1259854 85.705539,8.3469411 113.46932,56.877126 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,299.25598,376.2938)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="304.27261"
+       y="394.44934"
+       id="text2050"><tspan
+         id="tspan2048"
+         style="stroke-width:0.264583"
+         x="304.27261"
+         y="394.44934">{ </tspan></text>
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path10062-7"
+       cx="318.23315"
+       cy="394.48132"
+       r="0.59722221" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path10062"
+       cx="311.00674"
+       cy="394.48132"
+       r="0.59722221" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path10062-1"
+       cx="314.61993"
+       cy="394.48132"
+       r="0.59722221" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="318.39642"
+       y="394.44934"
+       id="text13965"><tspan
+         id="tspan13963"
+         style="stroke-width:0.264583"
+         x="318.39642"
+         y="394.44934">}</tspan></text>
+  </g>
+</svg>

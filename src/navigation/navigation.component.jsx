@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import { Outlet, Link } from "react-router-dom";
-import { ReactComponent as CrwnLogo } from "./../assets/crown.svg";
+import { ReactComponent as HexaLogo } from "./../assets/3dothexagonw.svg";
 import "./navigation.styles.scss";
 
 const Navigation = () => {
@@ -9,7 +9,7 @@ const Navigation = () => {
       <div className='navigation'>
         <Link className="logo-container" to="/">
           <div>
-            <CrwnLogo className="logo" />
+            <HexaLogo className="logo" />
           </div>
         </Link>
         <div className="nav-links-container">
