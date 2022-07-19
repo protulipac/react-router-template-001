@@ -1,4 +1,5 @@
 import React from 'react';
+import { v4 as uuidv4 } from 'uuid';
 import { Routes, Route } from 'react-router-dom';
 import Navigation from "./navigation/navigation.component";
 import Nestead from "./components/nestead/nestead.component";
@@ -14,7 +15,8 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-
+      console.log('UUIDv4: ', uuidv4());
+      console.log('UUIDv4: ', uuidv4());
   }
 
   componentWillUnmount() {
