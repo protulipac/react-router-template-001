@@ -15,8 +15,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-      console.log('UUIDv4: ', uuidv4());
-      console.log('UUIDv4: ', uuidv4());
+      console.log('UUIDv4: ', uuidv4()); //UUID TEST
   }
 
   componentWillUnmount() {
